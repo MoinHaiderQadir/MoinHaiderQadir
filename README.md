@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Moin Haider  
 
 **A passionate MERN Stack Developer || Software Engineer || Hyderabad, Sindh, Pakistan**  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MoinHaiderQadirlabel=Profile%20views&color=0e75b6&style=flat" alt="MoinHaiderQadir" /> </p>
+
 
 📩 **Email Me:** [moinhaiderqadir@gmail.com](mailto:moinhaiderqadir@gmail.com) — For Collaboration, Projects, or Anything Else 😊  
 
