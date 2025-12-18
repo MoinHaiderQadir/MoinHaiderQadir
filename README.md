@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **I’m currently working on:** A **Teacher-Student Online Video Classes ** (making healthcare bookings easy from home 🏠)  
+- 🔭 **I’m currently working on:** A Teacher-Student Online Video Classes   
 - 🌱 **I’m currently learning:** **Flutter** for cross-platform apps + improving my **Java & OOP** skills  
 - 👯 **I’m looking to collaborate on:** Hackathons, AI/ML projects, and open-source contributions 🤝  
 - 🤔 **I’m looking for help with:** Building a passionate team for impactful tech projects  
