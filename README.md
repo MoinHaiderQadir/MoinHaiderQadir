@@ -43,7 +43,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MoinHaiderQadir&theme=blue-green)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MoinHaiderQadir&color=bluegreen)
+![](https://komarev.com/ghpvc/?username=MoinHaiderQadir&label=Profile%20Views&color=bluegreen)
 
 
 ### 🔝 Top Contributed Repo
