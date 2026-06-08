@@ -1,13 +1,17 @@
+![](https://komarev.com/ghpvc/?username=MoinHaiderQadir&label=Profile%20Views&color=bluegreen&style=flat)
+
 # 💫 Hi 👋, I'm Moin Haider  
 
 **A passionate MERN Stack Developer || Software Engineer || Hyderabad, Sindh, Pakistan**  
 
 
+🌐 **Portfolio:** https://github-profile-vocj.vercel.app/
+
 📩 **Email Me:** [moinhaiderqadir@gmail.com](mailto:moinhaiderqadir@gmail.com) — For Collaboration, Projects, or Anything Else 😊  
 
 ---
 
-- 🔭 **I’m currently working on:** A Teacher-Student Online Video Classes   
+- 🔭 **I’m currently working on:** Building **Hiring360**, a startup focused on improving the hiring and recruitment process  
 - 🌱 **I’m currently learning:** **Flutter** for cross-platform apps + improving my **Java & OOP** skills  
 - 👯 **I’m looking to collaborate on:** Hackathons, AI/ML projects, and open-source contributions 🤝  
 - 🤔 **I’m looking for help with:** Building a passionate team for impactful tech projects  
