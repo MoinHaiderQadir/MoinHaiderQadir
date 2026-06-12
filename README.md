@@ -50,10 +50,16 @@
 ![](https://komarev.com/ghpvc/?username=MoinHaiderQadir&label=Profile%20Views&color=bluegreen)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MoinHaiderQadir&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+## 🔥 My Daily GitHub Activity
 
----
-[![](https://visitcount.itsvg.in/api?id=MoinHaiderQadir&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoinHaiderQadir&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+[![Moin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoinHaiderQadir&theme=github-dark)](https://github.com/MoinHaiderQadir)
+
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoinHaiderQadir&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
