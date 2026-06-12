@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=MoinHaiderQadir&label=Profile%20Views&color=bluegreen&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoinHaiderQadir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 # 💫 Hi 👋, I'm Moin Haider  
 
@@ -52,13 +54,9 @@
   <img src="https://streak-stats.demolab.com?user=MoinHaiderQadir&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🔥 Contribution Activity
 
-[![Moin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoinHaiderQadir&theme=github-dark&hide_border=true)](https://github.com/MoinHaiderQadir)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoinHaiderQadir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
